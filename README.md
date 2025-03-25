@@ -21,12 +21,14 @@ I developed a smart doorbell IoT device using a Raspberry Pi, which captures an 
 - User-friendly design with practical application
 
   ## 3D Design
+  
+
   ![Back Board, Cover Board, Button](images/Picture1.jpg)
 
   ## Back Board & Cover Board & Final Product
-  ![Back Board](images/Piture2.jpg)
-  
-  ![Final Product](images/Picture3.jpg)
+ <img src="images/Picture2.jpg" width="50%" height="50%">
+ <img src="images/Picture4.jpg" width="50%" height="50%">
+ <img src="images/Picture3.jpg" width="50%" height="50%">
 
 
 

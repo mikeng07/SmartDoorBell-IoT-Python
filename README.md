@@ -20,6 +20,16 @@ I developed a smart doorbell IoT device using a Raspberry Pi, which captures an 
 - Seamless integration of hardware and software components
 - User-friendly design with practical application
 
+  ## 3D Design
+  ![Back Board, Cover Board, Button](images/Picture1.jpg)
+
+  ## Back Board & Cover Board & Final Product
+  ![Back Board](images/Piture2.jpg)
+  
+  ![Final Product](images/Picture3.jpg)
+
+
+
 ## Recognition
 This project won an award at a summer event, highlighting its innovation and execution.
 
